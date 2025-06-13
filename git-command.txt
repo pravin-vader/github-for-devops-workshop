@@ -17,3 +17,14 @@
   22 git restore testing.py
   23 git status
   24 git log
+  25 history
+  26 git status
+  27 git add .\git-command.txt
+  28 git add .\git-command.txt
+  29 git status
+  30 git commit -m "git-command.txt file added"
+  31 git status
+  32 git remote add origin https://github.com/pravin-vader/github-for-devops-workshop.git
+  33 git remote -v
+  34  git push origin master
+  35 git push origin main
